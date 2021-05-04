@@ -1,7 +1,6 @@
 # To View List 
 
-![ToViewOwl](https://github.com/krismac/ToViewList/blob/main/.github/BlueOwlBG.png?=150x150)
-
+<img src="https://github.com/krismac/ToViewList/blob/main/.github/BlueOwlBG.png" width="100" height="100">
 
 ## Mission
 Create a social sharing applications - replace whatsapps, tweets and your to-do-list with a dedicated to-view-list of shows, movies, articles that you would like to see or would recommend to one or many - friends/colleagues or those with shared interests.
