@@ -7,6 +7,7 @@ Create a social sharing applications - replace whatsapps, tweets and your to-do-
 WIP - Authentication and intial scaffolding. 
 
 ## Planned Features
+### Basic
 - Authentication (login/register with email-password)
 - Responsive UI for all screens
 - Add/update/delete entries
@@ -14,13 +15,14 @@ WIP - Authentication and intial scaffolding.
 - Mark entries from list as 'viewed'
 - Tag items by freetext
 
-- Sort entries by oldest first, newest first, A-Z (alphabetical) or Z-A (reverse alpha.)
+### Controls
+- Sort entries by date added, alphabetical or reverse alpha.
 - Search entries by title, description or tags
-- Filter entries by type 
+- Filter entries by entry type 
 - Filter entries by status (starred or viewed)
 - Filter entries by tag 
 
-## Social
+### Social
 - Add existing items from an API (movies/tv/books)
 - Bookmark/Star key shows
 - Share viewed entries with friends
