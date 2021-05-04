@@ -1,6 +1,6 @@
 # To View List 
 
-![ToViewOwl](https://github.com/krismac/ToViewList/blob/main/.github/BlueOwlBG.png?raw=true=150x150)
+![ToViewOwl](https://github.com/krismac/ToViewList/blob/main/.github/BlueOwlBG.png?=150x150)
 
 
 ## Mission
