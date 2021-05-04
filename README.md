@@ -3,12 +3,13 @@
 ## Mission
 Create a social sharing applications - replace whatsapps, tweets and your to-do-list with a dedicated to-view-list of shows, movies, articles that you would like to see or would recommend to one or many friends/colleagues or those with shared interests.
 
-# Status:
-WIP - Authentication and intial scaffolding. 
-
-## Planned Features
+# Features (WIP)
+## Available
 ### Basic
 - Authentication (login/register with email-password)
+
+## Planned
+### Basic
 - Responsive UI for all screens
 - Add/update/delete entries
 - Add Article/Book/Movie/Show - title, link, description, tags & type of link
@@ -33,6 +34,7 @@ Reative-native Expo with firebase
 # Installation
 Env variable required
 
-'''npm install
+```
+npm install
 expo start 
-'''
+```
