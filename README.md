@@ -32,8 +32,8 @@ Reative-native Expo with firebase
 - Bookmark/Star key shows
 - Share viewed entries with friends
 
-## Setup
-# Installation
+# Setup
+## Installation
 Env variable required
 
 ```
